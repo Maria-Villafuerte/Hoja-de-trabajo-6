@@ -9,7 +9,7 @@ public class UI {
         System.out.println("\nBienvenido a el mercado local");
         ArrayList<String> postfix = readFile._readfile("datos.txt//");
         mercado calculadora = new mercado();
-
+        jji
         System.out.println("Con que tipo de estructura de datos MAP quieres realizarlo");
         System.out.println("\n1.HashMap");
         System.out.println("\n2.TreeMap");
