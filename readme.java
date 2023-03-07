@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.Scanner; // Import the Scanner class to read text files
 
 public class readme {
+public readme() {
+  
+  }
+
 /**
  * Metodo que lee el documento con las operaciones Postfix y guarda los datos dentro de ArrayList 
  * @param fpath Mensaje de lugar donde se encuentra el archivo datos.txt 
